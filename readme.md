@@ -19,11 +19,9 @@ Caravan é um projeto que consiste permitir usuários encontrar o melhor destino
 
 </div>
 
-![](header.png)
-
 ## Preview
 
-<img src="https://matheusgrundler.com/wp-content/uploads/gifs/iVaDvwsgyd.gif"/>
+<img src="https://matheusgrundler.com/wp-content/uploads/gifs/caravan.jpg" alt="Caravan logo "/>
 
 ## Sobre o projeto
 
